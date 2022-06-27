@@ -93,7 +93,6 @@ class CreateNotesFragment : Fragment()  {
     }
 
     private fun setUpViewModel() {
-
         val roomViewModel = ViewModelProvider(this ,NotesViewModelFactory(NotesRepository(NotesItemDatabase(context!!))))[NotesViewModel::class.java]
         item  =  NotesItem(
             binding.notesTitleTv.text.toString() ,
@@ -111,6 +110,4 @@ class CreateNotesFragment : Fragment()  {
         dateText = sdf.format(myCalendar.time)
         binding.dateTV.text = sdf.format(myCalendar.time)
     }
-
-
 }
