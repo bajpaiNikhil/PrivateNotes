@@ -89,6 +89,7 @@ class CreateNotesFragment : Fragment()  {
                     .show()
             }
         }
+
     }
 
     private fun setUpViewModel() {
