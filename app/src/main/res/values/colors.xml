@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#19181B</color>
+    <color name="purple_700">#19171B</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+<!--    for background card view-->
+    <color name="bright_pink">#DF6AA4</color>
+    <color name="red">#DC5B5B</color>
+    <color name="orange">#D39559</color>
+    <color name="yellow">#D5D565</color>
+    <color name="chartreuse">#749C4C</color>
+    <color name="green">#499349</color>
+    <color name="spring_green">#3B8E64</color>
+    <color name="cyan">#438F8F</color>
+    <color name="azure">#355B81</color>
+    <color name="blue">#424265</color>
+    <color name="violet">#63497E</color>
+    <color name="magenta">#7A577A</color>
+
+    <array name="rainbow">
+        <item>@color/bright_pink</item>
+        <item>@color/red</item>
+        <item>@color/orange</item>
+        <item>@color/yellow</item>
+        <item>@color/chartreuse</item>
+        <item>@color/green</item>
+        <item>@color/spring_green</item>
+        <item>@color/cyan</item>
+        <item>@color/azure</item>
+        <item>@color/blue</item>
+        <item>@color/violet</item>
+        <item>@color/magenta</item>
+    </array>
+</resources>

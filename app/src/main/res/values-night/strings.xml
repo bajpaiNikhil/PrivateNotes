@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">Add</string>
+    <string name="click_on_the_image_next_to_update_the_date">Click on the image next to Update the date</string>
+    <string name="Edit">Edit</string>
+    <string name="edit_notes">Edit Notes</string>
+    <string name="created_on">Created On :</string>
+    <string name="createdOn">Created On:</string>
+    <string name="create_notes">Create Notes</string>
+</resources>
